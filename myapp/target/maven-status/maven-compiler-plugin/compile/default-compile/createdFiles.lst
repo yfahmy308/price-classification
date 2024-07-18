@@ -1,0 +1,5 @@
+com\example\myapp\DeviceService.class
+com\example\myapp\MyAppApplication.class
+com\example\myapp\Device.class
+com\example\myapp\DeviceController.class
+com\example\myapp\DeviceRepository.class
